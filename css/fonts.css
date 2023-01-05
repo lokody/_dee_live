@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Aktiv-Grotesk-Corp-Bold';
+    src: url(../fonts/AktivGroteskCorp-Bold.ttf);
+}
+
+@font-face {
+    font-family:'Miniature-Display';
+    src: url(../fonts/Miniature-Display.woff);
+  
+  }
+
+@font-face {
+    font-family: 'Aktiv-Grotesk-Corp';
+    src: url(../fonts/AktivGroteskCorp-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Aktiv-Grotesk-Italic';
+    src: url(../fonts/AktivGrotesk-Italic.ttf);
+}
+
+
+
+
